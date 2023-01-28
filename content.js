@@ -1,0 +1,202 @@
+//BLOCK WORDS
+findString = function findText(text) {
+  if(window.find(text)){
+    document.documentElement.innerHTML = '';
+    document.documentElement.innerHTML = 'This site is blocked';
+    document.documentElement.scrollTop = 0;
+  };
+}
+
+findString("WordToBlock");
+
+//BLOCK THE PARTIAL DOMAINS
+findURL = function changeURL(text){
+  var current = window.location.href;
+  if(current === text){
+    window.location.replace("https://www.google.com");
+  }
+}
+
+//BLOCK THE ENTIRE DOMAIN WITH THE FOLLOWING FUNCTION
+findAllURL = function changeAllURL(text){
+  var current = window.location.href;
+  if(current.startsWith(text)){
+    document.documentElement.innerHTML = '';
+    document.documentElement.innerHTML = '<h1>NFT WEBSITE BLOCKED</h1><p>This website you tried to access has been detected as a NFT related website/project/marketplace/social media page that tries to sell or promote NFTs. Luckily we blocked the site for you.</p><p>NFTs are highly unsustainable and are a waist of money. In reality, all you are buying is some dumb pictures when you can easily screenshot them. In short, NFTs are Scams.</p>';
+    document.documentElement.scrollTop = 0;
+  }
+}
+    
+
+findAllURL("https://crypto.com/nft");
+findAllURL("https://opensea.io");
+findAllURL("https://xn--opnsea-4ua.app");
+findAllURL("https://opensea.app");
+findAllURL("https://www.niftygateway.com");
+findAllURL("https://launchmynft.co");
+findAllURL("https://jump.trade");
+findAllURL("https://rarible.com");
+findAllURL("https://binance.com");
+findAllURL("https://superrare.com");
+findAllURL("https://async.art");
+findAllURL("https://knownorigin.io");
+findAllURL("https://blockchainappfactory.com");
+findAllURL("https://eggheadz.io");
+findAllURL("https://mee6.xyz/nft");
+findAllURL("https://filab.io");
+findAllURL("https://renewable-earth.club");
+findAllURL("https://mother-nature.nft");
+findAllURL("https://www.odysseydao.com");
+findAllURL("https://theredapefamily.com");
+findAllURL("https://orcania.io");
+findAllURL("https://www.atomverse.club");
+findAllURL("https://bunny-buddies.com");
+findAllURL("https://www.flooz.world");
+findAllURL("https://earclubnft.com");
+findAllURL("https://svs.gg");
+findAllURL("https://desperateapewives.com");
+findAllURL("https://www.billionaireclubnft.com");
+findAllURL("https://kurto.io");
+findAllURL("https://www.alleycatunion.com");
+findAllURL("https://www.teddytrex.io");
+findAllURL("https://www.larvalabs.com");
+findAllURL("https://boredapeyachtclub.com");
+findAllURL("https://www.coolcatsnft.com");
+findAllURL("https://cryptodadsnft.com");
+findAllURL("https://www.lazylionsnft.com");
+findAllURL("https://yuga.com");
+findAllURL("https://otherside.xyz");
+findAllURL("https://cryptopunks.app");
+findAllURL("https://cannabispixie.co");
+findAllURL("https://seadn.io");
+findAllURL("https://highrunpokerclub.io");
+findAllURL("https://davethedead.art");
+findAllURL("https://tokensite.com");
+findAllURL("https://www.cyberkongz.com");
+findAllURL("https://veefriends.com");
+findAllURL("https://nft2metaverse.io");
+findAllURL("https://unusualwhales.com");
+findAllURL("https://uunicorns.io");
+findAllURL("https://thedogepoundnft.com");
+findAllURL("https://www.dapperdinos.com");
+findAllURL("https://www.holycows.com");
+findAllURL("https://embersnft.com");
+findAllURL("https://ucube.io");
+findAllURL("https://darkzodiac.com");
+findAllURL("https://cybtlx.one");
+findAllURL("https://carpetde.fi");
+findAllURL("https://mirror.xyz");
+findAllURL("https://twitter.com/ChaosClownz");
+findAllURL("https://instagram.com/mothernature.nft");
+findAllURL("https://twitter.com/NFTMotherNature");
+findAllURL("https://www.tiktok.com/@mothernature.nft");
+findAllURL("https://twitter.com/FourImmortals");
+findAllURL("https://www.instagram.com/filabltd");
+findAllURL("https://www.facebook.com/FILabOfficial");
+findAllURL("https://twitter.com/FOURIMMORTALS");
+findAllURL("https://twitter.com/eghz_nft");
+findAllURL("https://twitter.com/TheRedApeFamily");
+findAllURL("https://www.instagram.com/theredapefamily");
+findAllURL("https://www.youtube.com/c/TheRedApeFamily");
+findAllURL("https://instagram.com/atmvrs");
+findAllURL("https://twitter.com/atomverseNFT");
+findAllURL("https://twitter.com/theatomverse");
+findAllURL("https://twitter.com/thebunnybuddies");
+findAllURL("https://twitter.com/flooz_inc");
+findAllURL("https://www.instagram.com/flooz.inc");
+findAllURL("https://twitter.com/EARClubNFT");
+findAllURL("https://twitter.com/svsnft");
+findAllURL("https://twitter.com/DApeWives");
+findAllURL("https://twitter.com/partyapebc");
+findAllURL("https://www.instagram.com/billionaireclubnft");
+findAllURL("https://www.linkedin.com/company/billionaireclubnft");
+findAllURL("https://twitter.com/AlleyCatUnion");
+findAllURL("https://twitter.com/PixeldustNFT");
+findAllURL("https://twitter.com/TeddyTRexNFT");
+findAllURL("https://twitter.com/TokyoGachaGirls");
+findAllURL("https://www.instagram.com/AlleyCatUnion");
+findAllURL("https://twitter.com/LazyLionsNFT");
+findAllURL("https://www.instagram.com/lazylionsnft");
+findAllURL("https://twitter.com/larvalabs");
+findAllURL("https://www.youtube.com/channel/UCg2TFGt5LqBOSkEfeoP_shQ");
+findAllURL("https://twitter.com/coolcatsnft");
+findAllURL("https://twitter.com/BoredApeYC");
+findAllURL("https://twitter.com/cryptopunksnfts");
+findAllURL("https://twitter.com/CyberKongz");
+findAllURL("https://twitter.com/nft2metaverse_");
+findAllURL("https://www.instagram.com/nft2metaverse.io");
+findAllURL("https://twitter.com/nft2metaverse_");
+findAllURL("https://www.instagram.com/nft2metaverse.io");
+findAllURL("https://www.instagram.com/thedogepoundnfts");
+findAllURL("https://twitter.com/TheDogePoundNFT");
+findAllURL("https://twitter.com/u_unicornsnft");
+findAllURL("https://www.instagram.com/U_UnicornsNFT");
+findAllURL("https://twitter.com/DapperDinoNFT");
+findAllURL("https://www.instagram.com/dapperdinonft");
+findAllURL("https://twitter.com/HolyCowsNFT");
+findAllURL("https://www.instagram.com/embersnft");
+findAllURL("https://twitter.com/embersnft");
+findAllURL("https://twitter.com/viamirror");
+findAllURL("https://twitter.com/DarkZodiacNFT");
+findAllURL("https://www.instagram.com/darkzodiac.nft");
+findAllURL("https://twitter.com/CarpetDeFi");
+findAllURL("https://twitter.com/cybertel_x");
+findAllURL("https://github.com/cybertelx");
+findAllURL("https://github.com/Carpet-DeFi");
+findURL("https://discord.com/invite/mothernaturenft");
+findURL("https://discord.com/invite/filab");
+findURL("https://discord.com/invite/nft");
+findURL("https://discord.com/invite/nfts");
+findURL("https://discord.com/invite/nftpromo");
+findURL("https://discord.com/invite/mollynft");
+findURL("https://discord.com/invite/angryapesunitednft");
+findURL("https://discord.com/invite/chaosclownz");
+findURL("https://discord.com/invite/voodoo-warriors");
+findURL("https://discord.com/invite/bunnybuddies");
+findURL("https://discord.com/invite/bvx");
+findURL("https://discord.com/invite/flooz");
+findURL("https://discord.com/invite/earc");
+findURL("https://discord.com/invite/svsnft");
+findURL("https://discord.com/invite/dapewives");
+findURL("https://discord.com/invite/z2bFtCJ8Tu");
+findURL("https://discord.com/invite/44vUJbEuE4");
+findURL("https://discord.com/invite/vxajAY3YKt");
+findURL("https://discord.com/invite/YzgjUUpmkf");
+findURL("https://discord.com/invite/vvn2TkVXJw");
+findURL("https://discord.com/invite/4Bya8nmpbC");
+findURL("https://discord.com/invite/xX6SugCFBn");
+findURL("https://discord.com/invite/z2bFtCJ8Tu");
+findURL("https://discord.com/invite/ZeptbXM6S2");
+findURL("https://discord.com/invite/nVqWPXeRXa");
+findURL("https://discord.com/invite/uj3YZst");
+findURL("https://discord.com/invite/FTERdSFCaf");
+findURL("https://discord.com/invite/sqPcJAYQT");
+findURL("https://discord.com/invite/uweHDNdQrv");
+findURL("https://discord.com/invite/xJnsPjAkDZ");
+findURL("https://discord.com/invite/aSyjFg4jfP");
+findURL("https://discord.com/invite/geZKHzWtu8");
+findURL("https://discord.com/invite/FTTyyJ9Xu3");
+findURL("https://discord.com/invite/gded98jmH8");
+findURL("https://discord.com/invite/zJDRR5VKx4");
+findURL("https://discord.com/invite/eGwdFsDKdh");
+findURL("https://discord.com/invite/VWFtEpVc9Q");
+findURL("https://discord.com/invite/75ArpFxPaF");
+findURL("https://discord.com/invite/GJBVHbNfx7");
+findURL("https://discord.com/invite/HxE754wj9r");
+findURL("https://discord.com/invite/jKVr2UhNfr");
+findURL("https://discord.com/invite/uzFfH3A4xy");
+findURL("https://discord.com/invite/KyMMS7fuAP");
+findURL("https://discord.com/invite/nNaqtweDCV");
+findURL("https://discord.com/invite/LazyLionsNFT");
+findURL("https://discord.com/invite/coolcatsnft");
+findURL("https://discord.com/invite/3P5K3dzgdB");
+findURL("https://discord.com/invite/4JMAauFZBq");
+findURL("https://discord.com/invite/RZG9DgHZJX");
+findURL("https://discord.com/invite/cyberkongz");
+findURL("https://discord.com/invite/uuxW627Eam");
+findURL("https://discord.com/invite/unusualwhales");
+findURL("https://discord.com/invite/dogepoundstudios");
+findURL("https://discord.com/invite/uunicorns");
+findURL("https://discord.com/invite/dapperdinos");
+findURL("https://discord.com/invite/DTSRDYN7My");
+findURL("https://discord.com/invite/AcNX7ygdju");
