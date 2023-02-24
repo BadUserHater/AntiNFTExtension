@@ -21,7 +21,12 @@ Step 5: Go to Errors of the Extension and click "Clear All"
 
 ==========================RELEASE NOTES:========================
 
-V0.2.0 - Janurary 28th, 2022
+V0.3.0 - Feburary 24th, 2023
+Made huge update to the Extention Beta with even more NFT websites/Social Media pages/ Discord Servers blocked.
+This update now blocks more NFT Marketplaces.
+Developers folder now has nftsocials.txt and nftsites.txt has more NFT websites.
+
+V0.2.0 - Janurary 28th, 2023
 INTRODUCING THE DEVELOPERS UPDATE:
 Here is a small update for developers. There will now be a folder
 that contains resources and examples for developers to put Anti-NFT

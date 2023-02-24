@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "AntiNFT.Extension",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "This extension blocks NFT related websites/Marketplaces, Pro-NFT social media pages, and Pro-NFT discord server invites.",
 
   "content_scripts": [{
