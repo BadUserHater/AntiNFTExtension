@@ -1,0 +1,1080 @@
+﻿[
+  {
+	"id": 1,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "crypto.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 2,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "opensea.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 3,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "opensea.app",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 4,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "xn--opnsea-4ua.app",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 5,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "magiceden.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 6,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "gem.xyz",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 7,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "topaz.so",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 8,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "defined.fi",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 9,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "hyperspace.xyz",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 10,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "solanart.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 11,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "wax.atomichub.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 12,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "atomichub.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 13,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "neftyblocks.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 14,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "www.tradeport.xyz",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 15,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "metaplex.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 16,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "indexer.xyz",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 17,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "nftprojects.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 18,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "nftprojectlist.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 19,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "niftygateway.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 20,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "launchmynft.co",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 21,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "jump.trade",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 22,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "binance.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 23,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "rarible.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 24,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "superrare.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 25,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "async.art",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 26,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "knownorigin.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 27,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "blockchainappfactory.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 28,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "renewable-earth.club",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 29,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "mother-nature.nft",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 30,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "filab.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 31,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "odysseydao.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 32,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "theredapefamily.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 33,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "orcania.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 34,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "atomverse.club",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 35,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "bunny-buddies.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 36,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "flooz.world",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 37,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "earclubnft.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 38,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "svs.gg",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 39,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "desperateapewives.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 40,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "billionaireclubnft.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 41,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "kurto.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 42,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "alleycatunion.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 43,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "teddytrex.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 44,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "larvalabs.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 45,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "boredapeyachtclub.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 46,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "coolcatsnft.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 47,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "cryptodadsnft.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 48,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "lazylionsnft.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 49,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "yuga.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 50,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "otherside.xyz",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 51,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "cryptopunks.app",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 52,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "cannabispixie.co",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 53,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "collectvox.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 54,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "seadn.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 55,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "davethedead.art",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 56,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "highrunpokerclub.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 57,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "tokensite.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 58,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "www.cyberkongz.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 59,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "veefriends.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 60,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "nft2metaverse.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 61,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "unusualwhales.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 62,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "uunicorns.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 63,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "thedogepoundnft.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 64,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "dapperdinos.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 65,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "holycows.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 66,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "embersnft.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 67,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "ucube.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 68,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "darkzodiac.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 69,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "cybtlx.one",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 70,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "carpetde.fi",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 71,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "mirror.xyz",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 72,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "rowdyroos.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 73,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "trollgame.online",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 74,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "leftoverz.xyz",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 75,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "bittiez.netlify.app",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 76,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "spacenft.game",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 77,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "coralcube.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 78,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "macks.gg",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 79,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "carpetde.fi",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 80,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "asac.gg",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 81,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "breadheads.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 82,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "trophee.xyz",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 83,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "tacocrypto.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 84,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "petaverse.network",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 85,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "illuminatedones.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 86,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "illuminatedonesnft.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 87,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "nascco.online",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 88,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "perceptronlabs.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 89,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "wildwomen.art",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 90,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "tokensite.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 91,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "moralis.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 92,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "nansen.ai",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 93,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "zipmex.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 94,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "coinmarketcap.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 95,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "coinbound.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 96,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "nftculture.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 97,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "insidebitcoins.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 98,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "upcomingnft.net",
+      "resourceTypes": ["main_frame"]
+    }
+  }
+]
