@@ -1076,5 +1076,313 @@
       "urlFilter": "upcomingnft.net",
       "resourceTypes": ["main_frame"]
     }
+  },
+  {
+	"id": 99,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "etherscan.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 100,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "typicalfriends.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 101,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "collect9.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 102,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "themetakongz.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 103,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "ucousa.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 104,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "ethereum.org",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 105,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "cryptopotato.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 106,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "nft.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 107,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "nftgators.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 108,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "binance.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 109,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "binance.us",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 110,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "coinbase.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 111,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "nftnow.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 112,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "beincrypto.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 113,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "nftevening.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 114,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "nftnewstoday.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 115,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "decrypt.co",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 116,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "coindesk.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 117,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "coinbound.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 118,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "nftrade.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 119,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "coingecko.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 120,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "cointelegraph.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 121,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "polygonscan.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 122,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "ens.domains",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 123,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "6529.io",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 124,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "joingrapes.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 125,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "superrare.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+	"id": 126,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "laelaps.wtf",
+      "resourceTypes": ["main_frame"]
+    }
   }
 ]
